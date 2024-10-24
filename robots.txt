@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://nededayi.github.io/sitemap/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/aDE/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/EsW/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/rXc/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/xsR/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/pdm/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/NSV/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/hyM/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/aRn/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/oFe/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/kCm/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/oTt/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/jse/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/lKi/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/exA/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/Bgy/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/ikA/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/ELB/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/yrc/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/bKE/sitemap_index.nededayi
+Sitemap: https://nededayi.github.io/MJD/sitemap_index.nededayi
